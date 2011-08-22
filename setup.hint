@@ -1,4 +1,4 @@
 category: X11
-requires: libxcb1 libxcb-shape0
+requires: libiconv2 libxcb1 libxcb-icccm4 libxcb-shape0
 sdesc: "X.Org X window information utility"
 ldesc: "X.Org X window information utility"
