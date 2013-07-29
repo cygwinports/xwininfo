@@ -1,6 +1,0 @@
-inherit xorg
-
-
-PATCH_URI="1.1.2-iconv.patch"
-
-CYGCONF_ARGS="--with-xcb-icccm"

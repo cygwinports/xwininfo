@@ -1,0 +1,10 @@
+inherit xorg
+
+NAME="xwininfo"
+VERSION=1.1.3
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X window information utility"
+DESCRIPTION="X.Org X window information utility"
+
+CYGCONF_ARGS="--with-xcb-icccm"
